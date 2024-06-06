@@ -9,7 +9,7 @@ Sou apaixonada por tecnologia e meu interesse sempre me impulsionou a aprender d
 <div>
   
 ## Quem eu sou 🧠<div>
-▫ Eu tenho 22 anos, moro na região de Campinas.<div>
+▫ Eu tenho 23 anos, moro na região de Campinas.<div>
 ▫ Gosto de me socializar com as pessoas e passar o tempo com a minha familia.<div>
 ▫ Curiosidade: Desde pequena sempre gostei de computadores e tecnologia em geral, mas descobri minha paixão por programação um pouco mais velha!<div>
 <div>
